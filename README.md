@@ -39,7 +39,7 @@ The Website uses sentiment analsyis to analyse the tweets and give label 'cheerf
 
 ## About The Project
 
-The website uses a previously trained LSTM model to predict text-based signs of depression from the tweet and give a label according to it.
+The website uses a trained LSTM model to predict text-based signs of depression from the tweet and give a label according to it.
 
 This project aims to broaden the scope of social media-based mental health measures and to build an algorithm that can predict text-based signs of depression using existing research that has proven the correlation between depression and specific linguistic features. At the same time I build a website using the same algorithm.
 
