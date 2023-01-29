@@ -59,7 +59,13 @@ This project aims to broaden the scope of social media-based mental health measu
 
 ### About the Deep Learning Model
 
+
+![image](https://d1m75rqqgidzqn.cloudfront.net/2019/11/RNN.jpg)
+
+
 Long short-term memory (LSTM) is a deep learning artificial recurrent neural network (RNN) architecture. Unlike traditional feedforward neural networks, LSTM has feedback connections. It can process not only single data points (such as photos), but also complete data sequences (such as speech or video).
+
+![image](https://miro.medium.com/max/1100/1*cnKbQrqg2exJ-5fF6ea0tQ.webp)
 
 I choose LSTM as my model because LSTM are particularly designed to have a long-term “memory” that is capable of understanding the overall context better than other neural networks.
 
